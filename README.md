@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lasya Ragi</h1>
-<h3 align="center">AI & Data Science Student | Python Developer | AI Enthusiast</h3>
+<h3 align="center">AI & Data Science Student | Python Developer | AI Enthusiast|Java Developer | DSA Enthusiast | Problem Solver</h3>
 
 ---
 
@@ -8,6 +8,7 @@
 📊 CGPA: 9.12
 
 💻 Skilled in Python, Java, SQL, C, HTML, CSS and JavaScript
+
 
 🤖 Interested in Artificial Intelligence, Machine Learning, NLP and Data Science
 
